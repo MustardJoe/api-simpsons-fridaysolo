@@ -1,6 +1,7 @@
 import Component from './Component.js';
 import Header from './Header.js';
 import Footer from './Footer.js';
+import quotesApi from '../services/simpsons-api.js';
 
 class App extends Component {
     render() {
