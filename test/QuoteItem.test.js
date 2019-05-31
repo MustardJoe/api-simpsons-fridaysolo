@@ -5,7 +5,7 @@ QUnit.module('create quote item');
     
 test('create quote item DOM', assert => {
     //arrange
-    const singleQuoteObject = {
+    const quote = {
         quote:	'I believe the children are the future... Unless we stop them now!',
         character:	'Homer Simpson',
         image:	'https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939',
@@ -13,7 +13,7 @@ test('create quote item DOM', assert => {
     };
     
     //act
-    const quoteItem = new QuoteItem({ singleQuoteObject });
+    const quoteItem = new QuoteItem({ quote });
     const rendered = quoteItem.renderTemplate();
 
     // const expected = /*html*/`
