@@ -5,7 +5,7 @@ class Footer extends Component {
         return /*html*/`
         <div>
             This page uses
-            <a href="https://thesimpsonsquoteapi.glitch.me/">The Simpsons Quote API</a>
+            <a href="https://thesimpsonsquoteapi.glitch.me/" target="_blank">The Simpsons Quote API</a>
         </div>
     `;
     }
