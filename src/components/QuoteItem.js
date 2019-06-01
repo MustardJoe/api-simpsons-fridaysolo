@@ -7,9 +7,9 @@ class QuoteItem extends Component {
         const quote = this.props.quote;
         return /*html*/`
             <li class="quote-item">
-                <h1>${quote.character}</h1>
+                <h2>${quote.character}</h2>
                 <img src="${quote.image}">
-                <blockquote>
+                <blockquote class="quote-quote">
                     ${quote.quote}
                 </blockquote>
             </li>
