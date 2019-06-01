@@ -4,7 +4,7 @@ class Header extends Component {
     renderTemplate() {
         return /*html*/`
             <header>
-                <h1>Jonny's Simpsons Quotes</h1>
+                <h1><a href="./index.html">Jonny's Simpsons Quotes</a></h1>
             </header>
     `;
     }
