@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+
+.quote-item {
+    border: 2px solid rgb(24, 24, 235);
+    background-color: white;
+    border-radius: 5%;
+    text-align: center;
+    width: 290px;
+    margin: 10px;
+}
+
+.quote-item img {
+    width: 200px;
+    object-fit: cover;
+    margin: auto;
+}
+
+.quote-item h2 {
+    background-color: gold;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding: 20px;
+    position: relative;
+}
+
+.quote-quote {
+    font-size: 1.3em;
+}
