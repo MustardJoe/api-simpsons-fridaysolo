@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
 
 .quote-item {
-    border: 2px solid rgb(24, 24, 235);
+    border: 2px solid gold;
     background-color: white;
-    border-radius: 5%;
+    border-radius: 14px;
     text-align: center;
     width: 290px;
     margin: 10px;
