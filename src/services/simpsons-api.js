@@ -1,5 +1,5 @@
 //import QUERY from '../QUERY.js';
-const URL = 'https://thesimpsonsquoteapi.glitch.me/quotes?count=10';
+const URL = 'https://thesimpsonsquoteapi.glitch.me/quotes?count=9';
 
 const quotesApi = {
     getQuotes() {
