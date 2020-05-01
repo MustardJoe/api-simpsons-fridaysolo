@@ -8,4 +8,4 @@
 
 Jonny's Simpsons Quotes is built with a component-based library similar to React.
 
-**Further Info:**  If you enjoy Jonny's Simpons Quotes, please consider checking out more of <a href="https://github.com/MustardJoe">my projects on GitHub</a>, or at my homepage, <a href="https://wwww.jonforney.com">https://www.jonforney.com/</a>.  My linked in page is available at <a href="https://www.linkedin.com/in/jon-forney/">https://www.linkedin.com/in/jon-forney/</a>.  Please feel free to contact me with your professional opportunities.
+**Further Info:**  If you enjoy Jonny's Simpons Quotes, please consider checking out more of <a href="https://github.com/MustardJoe">my projects on GitHub</a>, or at my homepage, <a href="https://wwww.jonforney.com">https://www.jonforney.com/</a>.  My linkdIn page is available at <a href="https://www.linkedin.com/in/jon-forney/">https://www.linkedin.com/in/jon-forney/</a>.  Please feel free to contact me with your professional opportunities.
